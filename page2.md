@@ -1,5 +1,5 @@
 ---
-permalink: /test2.html
+permalink: /index.html
 ---
 <html lang="en">
   <head>

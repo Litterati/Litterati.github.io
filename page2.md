@@ -1,5 +1,6 @@
 ---
 permalink: /index.html
+layout: none
 ---
 <html lang="en">
   <head>

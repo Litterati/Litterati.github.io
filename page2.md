@@ -1,8 +1,6 @@
 ---
 permalink: /test2.html
 ---
-
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
